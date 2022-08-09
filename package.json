@@ -1,0 +1,21 @@
+{
+  "name": "typescript-data-structures",
+  "version": "0.0.1",
+  "description": "an implementation of various data structures using typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^4.0.3",
+    "typescript": "^4.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heinzja/typescript-data-structures"
+  },
+  "private": "true"
+}
